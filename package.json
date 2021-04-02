@@ -1,0 +1,24 @@
+{
+  "name": "ftbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ly745615122/ftbook.git"
+  },
+  "keywords": [],
+  "author": "ly745615122",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ly745615122/ftbook/issues"
+  },
+  "homepage": "https://github.com/ly745615122/ftbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
+}
